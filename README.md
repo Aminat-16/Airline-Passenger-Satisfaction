@@ -3,32 +3,35 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data sources](data-sources)
-- [Tools Used](tools-used)
-- [Data Cleaning/Preparation](data-cleaning/preparation)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Data Analysis](data-analysis)
-- [Results/Findings](results/findings)
-- [Recommendations](recommendations)
+- [Data sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
 
 ### Project Overview
+---
 
 This project analyzes passenger satisfaction data from Dano Airlines to uncover insights about customer experience and highlight areas for improvement. The analysis was carried out as part of the capstone project for the Digitaley Drive Data Analyst Bootcamp, Using a combination of Excel for data cleaning and exploration, and Power BI for interactive visualization, the analysis identifies trends across different passenger demographics, travel types, and service ratings.
 
 
-![Airline passenger satisfaction dashboard](https://github.com/user-attachments/assets/042ff23d-08b4-4c10-a9df-12d4837de78d)
+![Dano airline passenger satisfaction dashboard](https://github.com/user-attachments/assets/492e0203-de61-4327-82ed-6e19aa701d27)
 
 ### Data Sources
+---
 
 The dataset was provided by Digitaley Drive as part of a Data Analytics Bootcamp capstone project. It contains over 120,000 passenger records, including demographic details, travel information, service ratings, and overall satisfaction.
 
 ### Tools Used
+---
 
 - Excel - Data Cleaning
 - Power BI - Data Analysis, Creating Reports
 
-### Data Cleaning/Preparation
-
+### Data Cleaning
+---
 
 In the initial data preparation phase, I performed the following tasks:
 1. Identified 393 null values in the Arrival Delay column.
@@ -44,7 +47,7 @@ In the initial data preparation phase, I performed the following tasks:
 3. Checked for duplicates across the dataset, none were found.
 
 ### Exploratory Data Analysis
-
+---
 
 EDA involved exploring the airline data to answer key questions such as:
 - What factors are most strongly correlated with overall passenger satisfaction?
@@ -52,7 +55,7 @@ EDA involved exploring the airline data to answer key questions such as:
 - Calculate the average satisfaction score for each service category
 
 ### Data Analysis
-
+---
 
 1. Measures and KPIs (DAX)
 - Total Passengers – Total number of passengers.
@@ -66,8 +69,8 @@ EDA involved exploring the airline data to answer key questions such as:
 5. Bar Chart – Compares satisfaction across Age Groups.
 6. Donut Chart – Shows satisfaction by Travel Type (Personal vs. Business).
 
-### Results/Findings
-
+### Results 
+---
 
 1. In-flight Service and Baggage Handling received the highest average satisfaction scores, making them the best-performing service categories across all passengers.
 2. Wi-Fi Service and Gate Location had the lowest satisfaction ratings, indicating areas where Dano Airlines should prioritize improvements.
@@ -76,6 +79,7 @@ EDA involved exploring the airline data to answer key questions such as:
 5. Passengers aged 46 and above were the most satisfied, while younger age groups (particularly 18–30) reported lower satisfaction on average.
 
 ### Recommendations
+---
 
 Based on the analysis, I recommend the following actions:
 
@@ -85,6 +89,10 @@ Based on the analysis, I recommend the following actions:
 - Economy class passengers reported lower satisfaction. Improve seat comfort, meal variety, and in-flight entertainment without significantly raising operational costs.
 - Returning customers are more satisfied. Launch or expand a frequent flyer program to reward loyalty and encourage repeat bookings.
 - Enhance age-specific services by offering kid-friendly options for Children and Teenagers, improving digital experiences for Young Adults and Middle-aged passengers, and maintaining high standards for Adults and Elderly to further boost satisfaction across all age groups.
+
+💻 💻 💻
+
+
 
 
 
