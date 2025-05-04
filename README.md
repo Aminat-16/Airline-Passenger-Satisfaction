@@ -15,6 +15,9 @@
 
 This project analyzes passenger satisfaction data from Dano Airlines to uncover insights about customer experience and highlight areas for improvement. The analysis was carried out as part of the capstone project for the Digitaley Drive Data Analyst Bootcamp, Using a combination of Excel for data cleaning and exploration, and Power BI for interactive visualization, the analysis identifies trends across different passenger demographics, travel types, and service ratings.
 
+
+![Airline passenger satisfaction dashboard](https://github.com/user-attachments/assets/042ff23d-08b4-4c10-a9df-12d4837de78d)
+
 ### Data Sources
 
 The dataset was provided by Digitaley Drive as part of a Data Analytics Bootcamp capstone project. It contains over 120,000 passenger records, including demographic details, travel information, service ratings, and overall satisfaction.
